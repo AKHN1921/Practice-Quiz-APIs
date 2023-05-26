@@ -53,11 +53,13 @@ li:nth-child(odd) {
   background-color: #f3edfc;
 }
 
+/* customizes the container for basically everything */
 .wrapper {
   margin: 100px auto 0 auto;
   max-width: 600px;
 }
 
+/* enables things with this class to be hidden */
 .hide {
   display: none;
 }
