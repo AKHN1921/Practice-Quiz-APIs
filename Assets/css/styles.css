@@ -3,6 +3,7 @@ body {
   font-size: 120%;
 }
 
+/* styles text */
 a {
   color: #563d7c;
   text-decoration: none;
@@ -13,6 +14,7 @@ a:hover {
   color: #8570a5;
 }
 
+/* styles buttons */
 button {
   display: inline-block;
   margin: 5px;
@@ -26,6 +28,7 @@ button {
   transition: background-color 0.1s;
 }
 
+/* changes button color when hovering */
 button:hover {
   background-color: #8570a5;
 }
